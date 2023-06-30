@@ -1,5 +1,5 @@
 # Effectiveness-of-different-dimensionality-reduction-techniques-on-pruned-deep-neural-network.
-**DISSERTAION:** [link](https://github.com/mcnugets/Effectiveness-of-different-dimensionality-reduction-techniques-on-pruned-deep-neural-network/blob/main/Dissertation/Effectiveness%20of%20different%20dimensionality%20reduction%20techniques%20on%20pruned%20deep%20neural%20network.pdf)
+**DISSERTAION:** [link](https://github.com/mcnugets/Effectiveness-of-different-dimensionality-reduction-techniques-on-pruned-deep-neural-network/blob/d447dfaf79abf01555dc07e9a7d4245e2372af9e/Dissertation/Effectiveness%20of%20different%20dimensionality%20reduction%20techniques%20on%20pruned%20deep%20neural%20network.pdf)
 
 
 This experiment is divided into two sections:
