@@ -1,4 +1,6 @@
 # Effectiveness-of-different-dimensionality-reduction-techniques-on-pruned-deep-neural-network.
+Here is the dissertaion focusing on this research [link](FILE_NAME.pdf)
+
 
 This experiment is divided into two sections:
 - Dimensional Reduction
